@@ -13,7 +13,7 @@ How to install:
   Restart Fiji and the tool will be available in your plugin tab under the name AR IA.
 
 How to use:
-  Full workout coming soon, at the moment trial and error is your friend
+  Full workout coming soon, at the moment trial and error is your friend, its easy!
 
   
 
