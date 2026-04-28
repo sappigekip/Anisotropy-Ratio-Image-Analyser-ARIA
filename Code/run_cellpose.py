@@ -14,7 +14,7 @@ def run_cellpose(inputCellpose, diameterValue):
     # Convert the diameter to a float
     diameter = float(diameterValue)
     # Initialize the CellPose model
-    model = models.Cellpose(gpu=True, model_type='cyto3')
+    model = models.CellposeModel(gpu=True, model_type='cyto3')
 
     # Get a list of image filenames
     filenames = [os.path.join(inputCellpose, f) for f in os.listdir(inputCellpose) if f.endswith(('.png', '.tif', '.jpg'))]
