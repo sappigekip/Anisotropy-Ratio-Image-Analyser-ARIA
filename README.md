@@ -17,7 +17,9 @@ How to use:
 
 
 Made possible with the help of FWO short travel grant K208026N.
+Cellpose module for cell ROI determination made possible thanks to; Stringer, C., Wang, T., Michaelos, M., & Pachitariu, M. (2021). Cellpose: a generalist algorithm for cellular segmentation. Nature methods, 18(1), 100-106.
 
+DOI for this plugin can be found here: Zenodo. https://doi.org/10.5281/zenodo.19735074
   
 
 
